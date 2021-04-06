@@ -1,0 +1,16 @@
+D:\repos\judell\github\learning-csharp\SandBox\bin\Debug\net5.0\SandBox.exe
+D:\repos\judell\github\learning-csharp\SandBox\bin\Debug\net5.0\SandBox.deps.json
+D:\repos\judell\github\learning-csharp\SandBox\bin\Debug\net5.0\SandBox.runtimeconfig.json
+D:\repos\judell\github\learning-csharp\SandBox\bin\Debug\net5.0\SandBox.runtimeconfig.dev.json
+D:\repos\judell\github\learning-csharp\SandBox\bin\Debug\net5.0\SandBox.dll
+D:\repos\judell\github\learning-csharp\SandBox\bin\Debug\net5.0\ref\SandBox.dll
+D:\repos\judell\github\learning-csharp\SandBox\bin\Debug\net5.0\SandBox.pdb
+D:\repos\judell\github\learning-csharp\SandBox\obj\Debug\net5.0\SandBox.csprojAssemblyReference.cache
+D:\repos\judell\github\learning-csharp\SandBox\obj\Debug\net5.0\SandBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\judell\github\learning-csharp\SandBox\obj\Debug\net5.0\SandBox.AssemblyInfoInputs.cache
+D:\repos\judell\github\learning-csharp\SandBox\obj\Debug\net5.0\SandBox.AssemblyInfo.cs
+D:\repos\judell\github\learning-csharp\SandBox\obj\Debug\net5.0\SandBox.csproj.CoreCompileInputs.cache
+D:\repos\judell\github\learning-csharp\SandBox\obj\Debug\net5.0\SandBox.dll
+D:\repos\judell\github\learning-csharp\SandBox\obj\Debug\net5.0\ref\SandBox.dll
+D:\repos\judell\github\learning-csharp\SandBox\obj\Debug\net5.0\SandBox.pdb
+D:\repos\judell\github\learning-csharp\SandBox\obj\Debug\net5.0\SandBox.genruntimeconfig.cache
