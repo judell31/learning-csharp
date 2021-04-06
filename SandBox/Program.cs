@@ -6,6 +6,9 @@ namespace SandBox
     {
         static void Main(string[] args)
         {
+            /*
+             * HandsOn
+             */
             bool isSunny = false;
             String wear = "Wear sunglasses!";
             String dontWear = "You don't need to wear sunglasses.";
